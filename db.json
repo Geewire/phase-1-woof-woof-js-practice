@@ -3,8 +3,9 @@
     {
       "id": 1,
       "name": "Mr. Bonkers",
-      "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
+      "isGoodDog": "False",
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg",
+      "isgoodDog": "Bad Dog"
     },
     {
       "id": 2,
@@ -45,8 +46,9 @@
     {
       "id": 8,
       "name": "Mittens",
-      "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
+      "isGoodDog": "False",
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg",
+      "isgoodDog": "Bad Dog"
     },
     {
       "id": 9,
